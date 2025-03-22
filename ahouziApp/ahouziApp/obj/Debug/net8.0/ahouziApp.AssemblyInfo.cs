@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ahouziApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a0d64e67285a464027dde3bedaba34024f7bef0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ahouziApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ahouziApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

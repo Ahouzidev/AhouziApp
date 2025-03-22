@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\uzi\\Desktop\\devops\\atelier2\\ahouziApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A35DFF-6FE6-4E17-BA33-C9C6C1C89FDC}|ahouziApp\\ahouziApp.csproj|c:\\users\\uzi\\desktop\\devops\\atelier2\\ahouziapp\\ahouziapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A35DFF-6FE6-4E17-BA33-C9C6C1C89FDC}|ahouziApp\\ahouziApp.csproj|solutionrelative:ahouziapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A35DFF-6FE6-4E17-BA33-C9C6C1C89FDC}|ahouziApp\\ahouziApp.csproj|c:\\users\\uzi\\desktop\\devops\\atelier2\\ahouziapp\\ahouziapp\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A35DFF-6FE6-4E17-BA33-C9C6C1C89FDC}|ahouziApp\\ahouziApp.csproj|solutionrelative:ahouziapp\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A35DFF-6FE6-4E17-BA33-C9C6C1C89FDC}|ahouziApp\\ahouziApp.csproj|c:\\users\\uzi\\desktop\\devops\\atelier2\\ahouziapp\\ahouziapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A35DFF-6FE6-4E17-BA33-C9C6C1C89FDC}|ahouziApp\\ahouziApp.csproj|solutionrelative:ahouziapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\uzi\\Desktop\\devops\\atelier2\\ahouziApp\\ahouziApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ahouziApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\uzi\\Desktop\\devops\\atelier2\\ahouziApp\\ahouziApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ahouziApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:07:13.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\uzi\\Desktop\\devops\\atelier2\\ahouziApp\\ahouziApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ahouziApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\uzi\\Desktop\\devops\\atelier2\\ahouziApp\\ahouziApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ahouziApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:06:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\uzi\\Desktop\\devops\\atelier2\\ahouziApp\\ahouziApp\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "ahouziApp\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\uzi\\Desktop\\devops\\atelier2\\ahouziApp\\ahouziApp\\Models\\Test.cs",
+              "RelativeToolTip": "ahouziApp\\Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:06:29.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
